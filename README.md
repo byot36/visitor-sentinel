@@ -1,2 +1,0 @@
-# visitor-sentinel
-visitor-sentinel
